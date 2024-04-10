@@ -16,7 +16,9 @@ Step 4: and finally I created the Tableau course monitoring dashboard.
 ## Project Links:
 [Link to Final Dashboard](https://public.tableau.com/views/OnlineCourseMonitoringDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-[Link to Process Blog Post](https://jacibanton.com/portfolio/online-course-dashboard/)
+[Link to Dashboard Process Blog Post](https://jacibanton.com/portfolio/online-course-dashboard/)
+
+Coming Soon - Link to EDA Process Blog Post
 
 [Link to Dataset](https://analyse.kmi.open.ac.uk/open_dataset#about)
 
