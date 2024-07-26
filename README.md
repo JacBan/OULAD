@@ -21,6 +21,7 @@ Step 4: and finally I created the Tableau course monitoring dashboard.
 Coming Soon - Link to EDA Process Blog Post
 
 [Link to Dataset](https://analyse.kmi.open.ac.uk/open_dataset#about)
+[Link to the Kaggle Version of the Dataset] (https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad)
 
 ## Project screen shots:
 <img width="1080" alt="Tableau Course Monitoring Dashboard" src="https://github.com/JacBan/OULAD/assets/19371331/e1cf305a-0ac7-43e3-8849-ef16c933f25a">
